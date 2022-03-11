@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\alter\source\repos\opengltest\opengltest\shader_s.h(65): warning C4101: e: неиспользованная локальная переменная
+c:\users\alter\source\repos\opengltest\opengltest\gameobject.h(108): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(204): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(210): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(251): warning C4305: -=: усечение из "double" в "float"
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(256): warning C4305: +=: усечение из "double" в "float"
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(261): warning C4305: -=: усечение из "double" в "float"
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(266): warning C4305: +=: усечение из "double" в "float"
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(271): warning C4305: +=: усечение из "double" в "float"
+c:\users\alter\source\repos\opengltest\opengltest\main.cpp(276): warning C4305: -=: усечение из "double" в "float"
+  OpenGLTEST.vcxproj -> C:\Users\Alter\source\repos\OpenGLTEST\x64\Debug\OpenGLTEST.exe
